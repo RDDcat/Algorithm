@@ -9,7 +9,7 @@ public class VersionControl {
     }
 
     public boolean isBadVersion(int i) {
-        if(i > bad){
+        if(i >= bad){
             return true;
         }
         return false;
