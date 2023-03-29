@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+@DisplayName("Serch Insert Position 35 테스트")
 public class SerchInsertPosition35Test {
     SerchInsertPosition35 serchInsertPosition = new SerchInsertPosition35();
 
